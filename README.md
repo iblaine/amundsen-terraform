@@ -119,8 +119,6 @@ es = Elasticsearch([
 ])
 ```
 
-```
-
 Now, you can upload test data, update your ES endpoint in the command, which you can find [here](https://console.aws.amazon.com/es/home?region=us-east-1#domain:resource=amundsen-prod-es;action=dashboard;tab=undefined):
 
 ```sh
